@@ -21,6 +21,16 @@
 		5803CDFA188E3AD60014DD33 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5803CDDC188E3AD60014DD33 /* UIKit.framework */; };
 		5803CE02188E3AD60014DD33 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE00188E3AD60014DD33 /* InfoPlist.strings */; };
 		5803CE04188E3AD60014DD33 /* Day18Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 5803CE03188E3AD60014DD33 /* Day18Tests.m */; };
+		5803CE0E188E40A60014DD33 /* IMG_0123.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE0D188E40A60014DD33 /* IMG_0123.JPG */; };
+		5803CE0F188E40A60014DD33 /* IMG_0123.JPG in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE0D188E40A60014DD33 /* IMG_0123.JPG */; };
+		5803CE16188E490F0014DD33 /* Counting Stars - One Republic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE11188E490F0014DD33 /* Counting Stars - One Republic.mp3 */; };
+		5803CE18188E490F0014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE12188E490F0014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 */; };
+		5803CE1A188E490F0014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE13188E490F0014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 */; };
+		5803CE1C188E490F0014DD33 /* Lorde-Royals.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE14188E490F0014DD33 /* Lorde-Royals.mp3 */; };
+		5803CE22188E4BD80014DD33 /* Counting Stars - One Republic.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE11188E490F0014DD33 /* Counting Stars - One Republic.mp3 */; };
+		5803CE23188E4BD80014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE12188E490F0014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 */; };
+		5803CE24188E4BD80014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE13188E490F0014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 */; };
+		5803CE25188E4BD80014DD33 /* Lorde-Royals.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 5803CE14188E490F0014DD33 /* Lorde-Royals.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,11 @@
 		5803CDFF188E3AD60014DD33 /* Day18Tests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Day18Tests-Info.plist"; sourceTree = "<group>"; };
 		5803CE01188E3AD60014DD33 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		5803CE03188E3AD60014DD33 /* Day18Tests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Day18Tests.m; sourceTree = "<group>"; };
+		5803CE0D188E40A60014DD33 /* IMG_0123.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IMG_0123.JPG; sourceTree = "<group>"; };
+		5803CE11188E490F0014DD33 /* Counting Stars - One Republic.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Counting Stars - One Republic.mp3"; sourceTree = "<group>"; };
+		5803CE12188E490F0014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Timber (feat. Ke$ha) - Pitbull.mp3"; sourceTree = "<group>"; };
+		5803CE13188E490F0014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "The Monster (feat. Rihanna) - Eminem.mp3"; sourceTree = "<group>"; };
+		5803CE14188E490F0014DD33 /* Lorde-Royals.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Lorde-Royals.mp3"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +141,8 @@
 		5803CDDF188E3AD60014DD33 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				5803CE21188E4BC30014DD33 /* music */,
+				5803CE0D188E40A60014DD33 /* IMG_0123.JPG */,
 				5803CDE0188E3AD60014DD33 /* Day18-Info.plist */,
 				5803CDE1188E3AD60014DD33 /* InfoPlist.strings */,
 				5803CDE4188E3AD60014DD33 /* main.m */,
@@ -150,6 +167,17 @@
 				5803CE00188E3AD60014DD33 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		5803CE21188E4BC30014DD33 /* music */ = {
+			isa = PBXGroup;
+			children = (
+				5803CE11188E490F0014DD33 /* Counting Stars - One Republic.mp3 */,
+				5803CE12188E490F0014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 */,
+				5803CE13188E490F0014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 */,
+				5803CE14188E490F0014DD33 /* Lorde-Royals.mp3 */,
+			);
+			name = music;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -228,7 +256,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5803CE22188E4BD80014DD33 /* Counting Stars - One Republic.mp3 in Resources */,
+				5803CE23188E4BD80014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 in Resources */,
+				5803CE24188E4BD80014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 in Resources */,
+				5803CE25188E4BD80014DD33 /* Lorde-Royals.mp3 in Resources */,
 				5803CDF1188E3AD60014DD33 /* Images.xcassets in Resources */,
+				5803CE0E188E40A60014DD33 /* IMG_0123.JPG in Resources */,
 				5803CDE3188E3AD60014DD33 /* InfoPlist.strings in Resources */,
 				5803CDEC188E3AD60014DD33 /* Main.storyboard in Resources */,
 			);
@@ -238,7 +271,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5803CE18188E490F0014DD33 /* Timber (feat. Ke$ha) - Pitbull.mp3 in Resources */,
 				5803CE02188E3AD60014DD33 /* InfoPlist.strings in Resources */,
+				5803CE1A188E490F0014DD33 /* The Monster (feat. Rihanna) - Eminem.mp3 in Resources */,
+				5803CE16188E490F0014DD33 /* Counting Stars - One Republic.mp3 in Resources */,
+				5803CE0F188E40A60014DD33 /* IMG_0123.JPG in Resources */,
+				5803CE1C188E490F0014DD33 /* Lorde-Royals.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
